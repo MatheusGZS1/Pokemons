@@ -1,0 +1,10 @@
+.sobre{
+    padding:flex;
+    text-align:center;
+    color:rgb(45, 45, 49)
+}
+
+.sobre h1{
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
