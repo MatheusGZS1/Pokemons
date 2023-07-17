@@ -7,7 +7,7 @@ import Head from 'next/head'
 
 
 export const metadata = {
-  title: 'PokeNext',
+  title: 'AnimeView',
  
 }
 

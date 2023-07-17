@@ -25,9 +25,10 @@ export default async function Pokemons() {
    <>
 
         <div className={styles.title_container}> 
-            <h1 className={styles.title}>Poke<span>Next</span></h1>
+            <h1 className={styles.title}>Anime<span>View</span></h1>
 
             <Image src="/images/pokeball2.png" width="50" height="50"></Image>
+            <Image src="/images/kunai.png" width="50" height="50"></Image>
         </div>
 
     <div className={styles.pokemon_container}>
